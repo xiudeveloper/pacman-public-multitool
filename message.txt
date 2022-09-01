@@ -1,0 +1,2 @@
+**Pacman Automatic Advertiser**
+Leave a line at the end to give the bot room to add your link.
